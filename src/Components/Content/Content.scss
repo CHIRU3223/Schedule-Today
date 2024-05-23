@@ -1,0 +1,22 @@
+.div-content-day{
+    // float: left;
+    // position: absolute;
+    // padding-left: 30%;
+    border: 1px solid black;
+    width: 100%;
+    height: 80vh;
+
+}
+
+.note{
+    // padding: 0;
+    margin: 0px;
+    margin-left: -15px;
+    // position: relative;
+    // left: 0;
+
+    li::marker{
+        width : 20px;
+        
+    }
+}

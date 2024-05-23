@@ -1,10 +1,20 @@
 .div-sidebar{
-
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 2vh 4vh;
+    // float: left;
+    position:relative;
+    min-width: 300px;
     width: 20%;
-    height: 100%;
-    .div-calendar{
-        background-color: yellow;
+    height: 96vh;
+    // opacity: 0.5;    
+    // .div-calendar{
+    //     background-color: yellow;
         
+    // }
+    .react-calendar{
+        border: 0 !important;
+        background-color: inherit !important;
     }
 }
 

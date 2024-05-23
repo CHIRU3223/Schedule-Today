@@ -4,7 +4,6 @@ import Calendar from "./Calendar";
 const SideBar = () => {
   return (
     <div className="div-sidebar">
-      SideBar!
       <Calendar />
     </div>
   );
